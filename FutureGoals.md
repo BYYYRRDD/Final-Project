@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1><b>Future Goals</b></h1>
-<p>This website will have different information about me. I am a student at the University of Missouri. I am majoring in Information Technology. I am 19 years old and my birthday is March 24, 2002. I live in Columbia Missouri with my roomate, who is also a student at Mizzou. If you are interested in learning more click a subject below. You can also learn more about me by going to visit my <a href="https://www.instagram.com/drewbyrd02/">Instagram</a>.</p>
+<p>As of now my goal is to graduate from the University of Missouri and continue working in my current career. I want to keep advancing in my current line of work and keep improving my knowledge and work experience in this area of work. I also want to get married and have kids sometime after I graduate.</p>
  
 <!DOCTYPE html>
 <html>
