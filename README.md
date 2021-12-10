@@ -11,14 +11,28 @@
 <body>
 
 <h1>Life Subjects</h1>
-a:link
+  
 <ul>
   <li>Family</li>
   <li>Hobbies</li>
   <li>Career</li>
   <li>Future Goals</li>
 </ul>
+a:link {
+  background-color: yellow;
+}
 
+a:visited {
+  background-color: cyan;
+}
+
+a:hover {
+  background-color: lightgreen;
+}
+
+a:active {
+  background-color: hotpink;
+} 
 </body>
 </html>
 
