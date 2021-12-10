@@ -10,7 +10,7 @@
 <html>
 <body>
 
-<h1>Drew Byrd's Life Subjects</h1>
+<h1>Life Subjects</h1>
 
 <ul>
   <li>Family</li>
