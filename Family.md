@@ -5,7 +5,7 @@
 </head>
 <body>
 
-     <h1><b>Family</b></h1>
+     <h1>Family</h1>
 <p>My family is medium sized. We have five people in our immediate family. I have my mom and dad. Then my younger sister and my older brother. My sister is currently a senior in highschool. She does cheer and archery. My brother is married with two kids. My niece and nephew are Landry and Henry.</p>
      
 
