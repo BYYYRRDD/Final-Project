@@ -14,7 +14,7 @@
   
 <ul>
   <li><a href="Family.html">Family</a></li>
-  <li><a href="Hobbies.html">Hobbies</a>Hobbies</li>
+  <li><a href="Hobbies.html">Hobbies</a></li>
   <li>Career</li>
   <li>Future Goals</li>
 </ul>
