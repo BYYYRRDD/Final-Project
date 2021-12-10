@@ -5,7 +5,8 @@
 </head>
 <body>
 <h1>Drew Byrd's Life</h1>
-<p>This website will have different information about me. I am a student at the University of Missouri. I am majoring in Information Technology. I am 19 years old and my birthday is March 24, 2002. I live in Columbia Missouri with my roomate, who is also a student at Mizzou. If you are interested in learning more click a subject below</p>
+<p>This website will have different information about me. I am a student at the University of Missouri. I am majoring in Information Technology. I am 19 years old and my birthday is March 24, 2002. I live in Columbia Missouri with my roomate, who is also a student at Mizzou. If you are interested in learning more click a subject below. You can also learn more about me by going to visit my <a href="https://www.instagram.com/drewbyrd02/">Instagram</a>.</p>
+ 
 <!DOCTYPE html>
 <html>
 <body>
