@@ -9,18 +9,6 @@
 <p>This website will have different information about Drew Byrd. If you are interested in learning more click a subject below</p><!DOCTYPE html>
 <html>
 <head>
-<style>
-
-ul {
-  background: #3399ff;
-  padding: 20px;
-}
-
-
-ul li {
-  background: #cce5ff;
-  margin: 5px;
-}
 </style>
 </head>
 <body>
