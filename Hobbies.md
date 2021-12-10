@@ -10,10 +10,10 @@
   
 <ul>
   <li><i>Disc Golf</i></li>
-  <li>Video Games</li>
-  <li>Sports card collecting</li>
-  <li>Reading</li>
-  <li>Watching football</li>
+  <li><i>Video Games</i></li>
+  <li><i>Sports card collecting</i></li>
+  <li><i>Reading</i></li>
+  <li><i>Watching football</i></li>
 </ul>
   
   
