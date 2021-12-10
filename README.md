@@ -13,26 +13,11 @@
 <h1>Life Subjects</h1>
   
 <ul>
-  <li><a>Family.md</a>Family</li>
+  <li><a href="Family.html">Family</a></li>
   <li>Hobbies</li>
   <li>Career</li>
   <li>Future Goals</li>
 </ul>
-a:Family.md {
-  background-color: yellow;
-}
-
-a:visited {
-  background-color: cyan;
-}
-
-a:hover {
-  background-color: lightgreen;
-}
-
-a:active {
-  background-color: hotpink;
-} 
 </body>
 </html>
 
