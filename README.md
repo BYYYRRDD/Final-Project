@@ -8,12 +8,9 @@
 <h1>Drew Byrd's Life</h1>
 <p>This website will have different information about Drew Byrd. If you are interested in learning more click a subject below</p><!DOCTYPE html>
 <html>
-<head>
-</style>
-</head>
 <body>
 
-<h1>Styling Lists With Colors</h1>
+<h1>Drew Byrd's Life Subjects</h1>
 
 <ul>
   <li>Family</li>
