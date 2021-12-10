@@ -11,8 +11,8 @@
   <li>Jurassic World</li>
   <li>Pretty Much any Marvel Movie</li>
   <li>Red Notice</li>
-    <img>"https://github.com/BYYYRRDD/Final-Project/issues/2#issue-1077318190.jpeg" width="80" 
-     height="100"</img>
+    <img src="https://github.com/BYYYRRDD/Final-Project/issues/2#issue-1077318190.jpeg"width="80" 
+     height="100">
 </ul>
   
    <h2>Favorite TV Series</h2>
