@@ -24,6 +24,7 @@
   <li><a href="Hobbies.html">Hobbies</a></li>
   <li><a href="Career.html">Career</a></li>
   <li><a href="FutureGoals.html">Future Goals</a></li>
+  <li><a href="Entertainment.html">Entertainment</a></li>
 </ul>
 </body>
 </html>
